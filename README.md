@@ -1,5 +1,5 @@
 # Cycle_Disco_GAN
-Artificial Intelligence GAN
+AI Research Institute GAN Project
 
 ## Description
 CycleGAN vs DiscoGAN
