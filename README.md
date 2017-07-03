@@ -17,6 +17,7 @@ deformable CNN + CycleGAN
 * [DiscoGAN 1](https://github.com/GunhoChoi/DiscoGAN_TF)
 * [DiscoGAN 2](https://github.com/ilguyi/discoGAN.tensorflow.slim)
 * [DiscoGAN 3](https://github.com/jmiller656/DiscoGAN-Tensorflow)
+* [DiscoGAN 4](https://github.com/wiseodd/generative-models/tree/master/GAN/disco_gan)
 
 ## CycleGAN Code
 * [CycleGAN 1](https://github.com/XHUJOY/CycleGAN-tensorflow)
