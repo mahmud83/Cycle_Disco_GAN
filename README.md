@@ -12,3 +12,17 @@ DiscoGAN dataset -> CycleGAN
 ```bash
 deformable CNN + CycleGAN
 ```
+
+## DiscoGAN Code
+* [DiscoGAN 1](https://github.com/GunhoChoi/DiscoGAN_TF)
+* [DiscoGAN 2](https://github.com/ilguyi/discoGAN.tensorflow.slim)
+* [DiscoGAN 3](https://github.com/jmiller656/DiscoGAN-Tensorflow)
+
+## CycleGAN Code
+* [CycleGAN 1](https://github.com/XHUJOY/CycleGAN-tensorflow)
+* [CycleGAN 2](https://github.com/LynnHo/CycleGAN-Tensorflow-Simple)
+* [CycleGAN 3](https://github.com/vanhuyz/CycleGAN-TensorFlow)
+* [CycleGAN 4](https://github.com/hardikbansal/CycleGAN)
+
+## Author
+Junho Kim
