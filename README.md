@@ -1,5 +1,5 @@
 # Cycle_Disco_GAN
-AI Research Institute GAN Project
+[AI Research Institute](http://airi.kr/) GAN Project
 
 ## Description
 CycleGAN vs DiscoGAN
