@@ -18,6 +18,7 @@ deformable CNN + CycleGAN
 * [CycleGAN 2](https://github.com/LynnHo/CycleGAN-Tensorflow-Simple)
 * [CycleGAN 3](https://github.com/vanhuyz/CycleGAN-TensorFlow)
 * [CycleGAN 4](https://github.com/hardikbansal/CycleGAN)
+* [CycleGAN 5_Siraj](https://github.com/llSourcell/Generative_Adversarial_networks_LIVE)
 
 ## DiscoGAN Code
 * [DiscoGAN 1](https://github.com/GunhoChoi/DiscoGAN_TF)
