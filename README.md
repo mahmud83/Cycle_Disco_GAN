@@ -15,13 +15,13 @@ DiscoGAN dataset -> CycleGAN
 * [CycleGAN 2](https://github.com/LynnHo/CycleGAN-Tensorflow-Simple)
 * [CycleGAN 3](https://github.com/vanhuyz/CycleGAN-TensorFlow)
 * [CycleGAN 4](https://github.com/hardikbansal/CycleGAN)
-* [CycleGAN 5_Siraj](https://github.com/llSourcell/Generative_Adversarial_networks_LIVE)
 
 ## DiscoGAN Code
 * [DiscoGAN 1](https://github.com/GunhoChoi/DiscoGAN_TF)
 * [DiscoGAN 2](https://github.com/ilguyi/discoGAN.tensorflow.slim)
 * [DiscoGAN 3](https://github.com/jmiller656/DiscoGAN-Tensorflow)
 * [DiscoGAN 4](https://github.com/wiseodd/generative-models/tree/master/GAN/disco_gan)
+* [DiscoGAN_5_Siraj](https://www.youtube.com/watch?v=MgdAe-T8obE&t=2763s)
 
 ## Reference
 * [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf)
